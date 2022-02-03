@@ -1,42 +1,47 @@
-## Olá, tudo bem? Eu sou Argel Capela!
-
- <div>
-  <a href="https://github.com/argelcapela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=argelcapela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argelcapela&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<div id="container" align="center">
+<i>"Mas os que esperam no Senhor renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não desfalecerão." <br>Isaias 40:31 <br></i><br>
  
+<img src="https://i.imgur.com/ArR1PnR.jpg" alt="capa github">
 <div style="display: inline_block"><br>
-   <img align="center" alt="gel-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="gel-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="gel-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-   <img align="center" alt="gel-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+ <img align="center" alt="gel-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" m> 
+  
    <img align="center" alt="gel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="gel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="gel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gel-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
+     <img align="center" alt="gel-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  
-  <!-- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <img align="right" alt="Rafa-yoda" height="150px" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif">
- 
- </div>
-  
-  ##
- 
-<div> 
- 
-  <a href="https://www.instagram.com/argelcapela/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:argelcapeladossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/argel-capela-dos-santos-096411203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://wa.me/message/HMG2UV727HJKH1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+   <img align="center" alt="gel-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="gel-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
 
- 
-  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
- 
-   ![Snake animation](https://github.com/argelcapela/argelcapela/blob/output/github-contribution-grid-snake.svg)
+
+   
 </div>
+ <br>
+<br>
+<br>
+<br> 
+ 
+<h3>
+Olá, tudo beem com você ? Sou Argel Capela. 22 anos. Vivo numa cidade linda cheia de praias chamada Guarujá , aqui em São Paulo. <br><br>
+Adoooro Praia 🏖, tocar instrumentos musicais 🎸, comer feijoada 🍛 e passar tempo com os meus pais, melhor ainda se for na PRAIAAA 😁. <br><br>
+Como um bom brasileiro, já trabalhei de quase tudo pra ganhar alguma grana, mas em determinado momento decidi investir na área de TI 💻, porque acredito ter uma vocação e grande potêncial para tal, desde pequeno. <br><br>
+ Formado pela <a href="https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/">Generation Brasil</a> como Dev. Fullstack Java Jr. e atualmente estudando <a href="https://www.42sp.org.br/">Engenharia de Software na 42SP</a>, pouco a pouco estou lutando para conquistar meu espaço, nesse mercado desafiador e incrível que é o de TI. ❤ <br><br>
+Eu acredito fortemente numa frase que diz: <b>"O Sucesso é igual preparação mais oportunidade!"</b><br><br>
+A meta é tornar-me Dev. profissional e crescer o máximo que eu possa, orgulhar meus pais e minha família 👨‍👩‍👧‍👧 Cleane, Josemar, Lyriel e Ana Vitória, mostrar que com MUITA fé, estudo e trabalho árduo, a favela pode vencer, podemos crescer e vencer na vida!<br><br>
+Assim eu sigo, matando um leão por vez, 1% melhor todos os dias, sempre me aprimorando 🤼‍♂️. Tenho muita Fé em Deus, sei que a minha hora chegará.<br>
+</h3>
+ 
+<br>
+<br>
+<br>
+<br>
+
+<i>Por favor, me daria honra de ter sua visita em meu Site Pessoal? <br> é só clicar nesse icone abaixo. Muito obrigado!<br></i><br>
+<a href="http://www.argelcapela.rf.gd"><img src="https://i.imgur.com/iFxsoep.jpg" width="100px" height="100px"></a></a>
+<br><br>
+<h6>Obrigado pela sua presença no meu Github, por favor, se tiver qualquer Feedback ou sugestão, entre em contato ficarei feliz em ouvir, tudo serve para o nosso crescimento pessoal. Até mais.<br>#1%MelhorTodosOsDias! #VitóriaNaGuerra!</h6>
 
 
+
+
+</div>
