@@ -22,7 +22,7 @@
 <br> 
  
 <h3>
-Olá, tudo beem com você ? Sou Argel Capela. 22 anos. Vivo numa cidade linda cheia de praias chamada Guarujá , aqui em São Paulo. <br><br>
+Olá, tudo beem com você ? Sou Argel Capela. 22 anos. Vivo numa cidade linda e cheia de praias chamada Guarujá , aqui em São Paulo. <br><br>
 Adoooro Praia 🏖, tocar instrumentos musicais 🎸, comer feijoada 🍛 e passar tempo com os meus pais, melhor ainda se for na PRAIAAA 😁. <br><br>
 Como um bom brasileiro, já trabalhei de quase tudo pra ganhar alguma grana, mas em determinado momento decidi investir na área de TI 💻, porque acredito ter uma vocação e grande potêncial para tal, desde pequeno. <br><br>
  Formado pela <a href="https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/">Generation Brasil</a> como Dev. Fullstack Java Jr. e atualmente estudando <a href="https://www.42sp.org.br/">Engenharia de Software na 42SP</a>, pouco a pouco estou lutando para conquistar meu espaço, nesse mercado desafiador e incrível que é o de TI. ❤ <br><br>
