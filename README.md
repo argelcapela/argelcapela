@@ -42,7 +42,7 @@
 <br>
 
 <!-- portfolio -->
-<a href="https://argelcapela.com.br"><img src="https://i.imgur.com/iFxsoep.jpg" width="100px" height="100px"></a></a>
+<a href="https://argelcapela.com.br"><img src="https://i.imgur.com/iFxsoep.jpg" width="100px" height="100px"></a>
 <br><br>
 
 
