@@ -36,7 +36,7 @@
 <br>
 
 <!-- portfolio -->
-<h6>Obrigado pela sua presença no meu Github, por favor, se tiver qualquer feedback ou sugestão, entre em contato, ficarei feliz em ouvir, aprender e crescer. <br><br>Me daria a honra de sua visita em meu portfólio? Clique na logo abaixo! ⬇️ </h6>
+<h6>Obrigado pela sua presença no meu Github, por favor, se tiver qualquer feedback ou sugestão, entre em contato, ficarei feliz em ouvir, aprender e crescer. <br>Me daria a honra de sua visita em meu portfólio? Clique na logo abaixo! ⬇️ </h6>
 
 <a href="https://argelcapela.com.br"><img src="https://i.imgur.com/iFxsoep.jpg" width="100px" height="100px"></a>
 <br><br>
