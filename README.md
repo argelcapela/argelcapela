@@ -21,6 +21,7 @@
 
 <!-- presentation letter -->
 <h3>
+
   Olá, tudo beeem com você? Sou Argel Capela. Nasci numa cidade linda e cheia de praias chamada Guarujá, hoje vivo em Tucuruvi, São Paulo.
   <br>
   <br>
@@ -42,6 +43,7 @@
 <br>
 
 <!-- portfolio -->
+<h6>Me daria a honra de sua visita em meu portfólio? <br> Clique na logo abaixo! ⬇️ </h6>
 <a href="https://argelcapela.com.br"><img src="https://i.imgur.com/iFxsoep.jpg" width="100px" height="100px"></a>
 <br><br>
 
