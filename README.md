@@ -20,38 +20,27 @@
 <br>
 
 <!-- presentation letter -->
-<h3>
+<h4>Olá, tudo beeem com você? Sou Argel Capela. Nasci numa cidade linda e cheia de praias chamada Guarujá, hoje vivo em Tucuruvi, São Paulo.</h4>
 
-  Olá, tudo beeem com você? Sou Argel Capela. Nasci numa cidade linda e cheia de praias chamada Guarujá, hoje vivo em Tucuruvi, São Paulo.
-  <br>
-  <br>
+<h4>Adoooro Praia 🏖, tocar instrumentos musicais 🎸, comer feijoada 🍛 e passar tempo com os meus pais, melhor ainda se for na PRAIAAA, ouvindo PISEIRO alto 😁.</h4>
 
-  Adoooro Praia 🏖, tocar instrumentos musicais 🎸, comer feijoada 🍛 e passar tempo com os meus pais, melhor ainda se for na PRAIAAA, ouvindo PISEIRO alto 😁.
-  <br>
+<h4>Como um bom brasileiro, já trabalhei de quase tudo para ganhar alguma grana, mas em determinado momento decidi investir na área de TI 💻, porque acredito ter uma vocação e grande potencial para tal, desde pequeno.</h4>
 
-  Como um bom brasileiro, já trabalhei de quase tudo para ganhar alguma grana, mas em determinado momento decidi investir na área de TI 💻, porque acredito ter uma vocação e grande potencial para tal, desde pequeno.
-  <br>
+<h4>Formado pela <a style="color:#00CC00;" href="https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/">Generation Brasil</a> como Dev. Fullstack Java Jr. e formado na <a style="color:#00CC00;" href="https://www.42sp.org.br/">42 São Paulo</a> como Engenheiro de Software, sigo diariamente buscando tornar-me um Engenheiro de Software e <a style="color:#00CC00;" href="https://online.pucrs.br/blog/public/intraempreendedorismo-entenda-o-conceito">Intraempreendedor</a> de alta performance, agregar valor a empresa que eu faço parte e ao mercado de trabalho. ❤</h4>
 
-  Formado pela <a style="color:#00CC00;" href="https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/">Generation Brasil</a> como Dev. Fullstack Java Jr. e formado na <a style="color:#00CC00;" href="https://www.42sp.org.br/">42 São Paulo</a> como Engenheiro de Software, sigo diariamente buscando tornar-me um Engenheiro de Software e <a style="color:#00CC00;" href="https://online.pucrs.br/blog/public/intraempreendedorismo-entenda-o-conceito">Intraempreendedor</a> de alta performance, agregar valor a empresa que eu faço parte e ao mercado de trabalho. ❤
-  <br>
+<h4>Meu mentor Flávio Augusto da Silva, uma vez me ensinou que : <b style="color:blue">"A Vida do Verdadeiro Campeão é um Eterno Recomeço."</b> Portanto, enquanto Deus me permitir viver, vou buscar ser 1% melhor todos os dias e lutar para ir sempre para o próximo nível na escada do progresso.<br></h4>
 
-  Meu mentor Flávio Augusto da Silva, uma vez me ensinou que : <b style="color:blue">"A Vida do Verdadeiro Campeão é um Eterno Recomeço."</b> Portanto, enquanto Deus me permitir viver, vou buscar ser 1% melhor todos os dias e lutar para ir sempre para o próximo nível na escada do progresso.<br>
+<h4>Muito Obrigado.</h4>
 
-  Muito Obrigado.
-</h3>
 
 <br>
 
 <!-- portfolio -->
-<h6>Me daria a honra de sua visita em meu portfólio? <br> Clique na logo abaixo! ⬇️ </h6>
+<h6>Obrigado pela sua presença no meu Github, por favor, se tiver qualquer feedback ou sugestão, entre em contato, ficarei feliz em ouvir, aprender e crescer. <br><br>Me daria a honra de sua visita em meu portfólio? Clique na logo abaixo! ⬇️ </h6>
+
 <a href="https://argelcapela.com.br"><img src="https://i.imgur.com/iFxsoep.jpg" width="100px" height="100px"></a>
 <br><br>
 
-
-<h6>Obrigado pela sua presença no meu Github, por favor, se tiver qualquer Feedback ou sugestão, entre em contato, ficarei feliz em ouvir. Todo feedback servirá para o meu crescimento pessoal e profissional. Até mais. Sucesso!!<br>#1%MelhorTodosOsDias! #VitóriaNaGuerra!</h6>
-
-<br>
-<br>
 <!-- scripture -->
 
 <i>"Mas os que esperam no Senhor renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não desfalecerão." <br>Isaías 40:31 <br></i><br>
