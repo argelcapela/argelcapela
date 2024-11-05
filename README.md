@@ -28,7 +28,7 @@ Sou um homem negro, vindo de uma família grande e muito humilde de Vicente de C
 
 Foi na área de tecnologia que resolvi trilhar meu próprio sucesso. Desde pequeno estudo programação. Me formei como Técnico pelo Senai e Engenheiro de Software pela 42 São Paulo. Adoro estudar e sempre buscar conhecimento para me aprimorar.
 
-Atualmente atuo como Consultor ABAP e sigo buscando me especializar e crescer como profissional Tech SAP.
+Atualmente atuo como Consultor SAP e sigo buscando me especializar e crescer como profissional Tech SAP.
 
 🌱 Missão:<br>
 Tornar-me um profissional de Alta Performance; trazer Resultado para as organizações que eu trabalhar; contribuir positivamente para o Desenvolvimento Pessoal e Profissional das pessoas.
